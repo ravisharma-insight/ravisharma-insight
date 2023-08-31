@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ravi Sharma</h1>
-<h3 align="center">A passionate Cloud Engineer I, working at Insight Inc.</h3>
+<h3 align="center">A Cloud Engineer, working at Insight Inc.</h3>
 
 - 🌱 I’m currently learning **Python, C#, Power BI, ADF,and more**
 
